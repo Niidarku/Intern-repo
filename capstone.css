@@ -1,0 +1,55 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:white;
+    -moz-text-size-adjust: auto;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+    text-align:left;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+.one{
+    text-align: center
+}
+
+#last{
+    border: 6px solid black;
+    height: 7%;
+    width: 35%
+}
+
+#frst{
+    border: 6px solid black;
+    height: 7%;
+    width: 35%
+}
+
+#mal{
+    border: 6px solid black;
+    height: 7%;
+    width: 35%
+}
+
+#sub{
+    color: yellow;
+    border: 10px solid #000;
+    height: 10%;
+    width: 15%;
+}
